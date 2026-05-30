@@ -11,7 +11,7 @@ if score < 0 or score > 100:
 # Base grading
 if score >= 90:
     grade = "A"
-elif score >= 80:
+elif score >= 80: 
     grade = "B"
 elif score >= 70:
     grade = "C"
